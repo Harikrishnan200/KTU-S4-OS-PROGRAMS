@@ -8,5 +8,5 @@ int main() {
     // reversed integer is stored in reversed variable
     
 
-    return 0;
+    
 }
