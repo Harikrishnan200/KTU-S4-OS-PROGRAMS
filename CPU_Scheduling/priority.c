@@ -96,4 +96,4 @@ int main()
     swap(n);
     process_calculation(n);
     display(n);
-]
+}
