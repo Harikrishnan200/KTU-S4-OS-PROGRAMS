@@ -1,5 +1,6 @@
 palindrom
 eknllmemmvlmvlw
 el;lf;
-dmmdmmdm
+dmmdmmdm 
+jdjjdj
 ellmelmlmcmdmmdd,d
